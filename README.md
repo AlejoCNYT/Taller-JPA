@@ -26,8 +26,9 @@
 > ```
 
 ---
-<img width="802" height="736" alt="Screenshot 2025-09-17 105405" src="https://github.com/user-attachments/assets/1fcc5beb-eb9d-4c2a-a3c9-46e2965c1d7c" />
-<img width="755" height="231" alt="Screenshot 2025-09-17 105409" src="https://github.com/user-attachments/assets/a3f3d95a-3d73-4bac-9408-06399d4882ee" />
+
+<img width="802" height="736" alt="Screenshot 2025-09-17 105405" src="https://github.com/user-attachments/assets/c71f3dd1-b98b-4011-a226-82b374d247cb" />
+<img width="755" height="231" alt="Screenshot 2025-09-17 105409" src="https://github.com/user-attachments/assets/9156a52f-e1bd-4a74-abc1-61ebcbce0d38" />
 
 ## 🧩 Tech Stack
 
@@ -103,6 +104,7 @@ Con la aplicación corriendo, abre:
 > Si no abre, verifica en `src/main/resources/application.properties` que `spring.h2.console.enabled=true` y `spring.h2.console.path=/h2-console`.
 
 ---
+<img width="1768" height="853" alt="Screenshot 2025-09-17 105747" src="https://github.com/user-attachments/assets/c88158e1-8de6-4703-abc2-45dd872dc857" />
 
 ## 🧪 Testing
 
