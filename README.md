@@ -26,6 +26,8 @@
 > ```
 
 ---
+<img width="802" height="736" alt="Screenshot 2025-09-17 105405" src="https://github.com/user-attachments/assets/1fcc5beb-eb9d-4c2a-a3c9-46e2965c1d7c" />
+<img width="755" height="231" alt="Screenshot 2025-09-17 105409" src="https://github.com/user-attachments/assets/a3f3d95a-3d73-4bac-9408-06399d4882ee" />
 
 ## 🧩 Tech Stack
 
@@ -83,6 +85,7 @@ java -jar target\accessing-data-jpa-0.0.1-SNAPSHOT.jar
 ./mvnw -q clean package
 java -jar target/accessing-data-jpa-0.0.1-SNAPSHOT.jar
 ```
+<img width="1768" height="853" alt="Screenshot 2025-09-17 105747" src="https://github.com/user-attachments/assets/3b530cf7-0f3c-4c9c-8911-7471667f3464" />
 
 > Al iniciar, verás en consola los `Customer` sembrados y el resultado de las consultas.
 
